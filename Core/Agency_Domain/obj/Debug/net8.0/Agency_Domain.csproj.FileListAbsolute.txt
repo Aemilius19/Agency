@@ -1,0 +1,15 @@
+C:\Users\ca.r215.06\Desktop\MVC\Agency\Core\Agency_Domain\bin\Debug\net8.0\Agency_Domain.deps.json
+C:\Users\ca.r215.06\Desktop\MVC\Agency\Core\Agency_Domain\bin\Debug\net8.0\Agency_Domain.runtimeconfig.json
+C:\Users\ca.r215.06\Desktop\MVC\Agency\Core\Agency_Domain\bin\Debug\net8.0\Agency_Domain.dll
+C:\Users\ca.r215.06\Desktop\MVC\Agency\Core\Agency_Domain\bin\Debug\net8.0\Agency_Domain.pdb
+C:\Users\ca.r215.06\Desktop\MVC\Agency\Core\Agency_Domain\obj\Debug\net8.0\Agency_Domain.csproj.AssemblyReference.cache
+C:\Users\ca.r215.06\Desktop\MVC\Agency\Core\Agency_Domain\obj\Debug\net8.0\Agency_Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r215.06\Desktop\MVC\Agency\Core\Agency_Domain\obj\Debug\net8.0\Agency_Domain.AssemblyInfoInputs.cache
+C:\Users\ca.r215.06\Desktop\MVC\Agency\Core\Agency_Domain\obj\Debug\net8.0\Agency_Domain.AssemblyInfo.cs
+C:\Users\ca.r215.06\Desktop\MVC\Agency\Core\Agency_Domain\obj\Debug\net8.0\Agency_Domain.csproj.CoreCompileInputs.cache
+C:\Users\ca.r215.06\Desktop\MVC\Agency\Core\Agency_Domain\obj\Debug\net8.0\Agency_Domain.sourcelink.json
+C:\Users\ca.r215.06\Desktop\MVC\Agency\Core\Agency_Domain\obj\Debug\net8.0\Agency_Domain.dll
+C:\Users\ca.r215.06\Desktop\MVC\Agency\Core\Agency_Domain\obj\Debug\net8.0\refint\Agency_Domain.dll
+C:\Users\ca.r215.06\Desktop\MVC\Agency\Core\Agency_Domain\obj\Debug\net8.0\Agency_Domain.pdb
+C:\Users\ca.r215.06\Desktop\MVC\Agency\Core\Agency_Domain\obj\Debug\net8.0\Agency_Domain.genruntimeconfig.cache
+C:\Users\ca.r215.06\Desktop\MVC\Agency\Core\Agency_Domain\obj\Debug\net8.0\ref\Agency_Domain.dll

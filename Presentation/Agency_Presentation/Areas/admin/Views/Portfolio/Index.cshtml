@@ -1,0 +1,38 @@
+﻿@model List<PortfolioSlider>
+@{
+    int count = +1;
+}
+<div>
+    <div>
+        <h3>Portfolio</h3>
+        <a class="btn btn-primary" asp-action="Create">Create</a>
+    </div>
+    <div class="container">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Title</th>
+                    <th scope="col">SubTitle</th>
+                    <th scope="col">Image</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    count = +1;
+                    <tr>
+                        <th scope="row">@count</th>
+                        <td>@item.Title</td>
+                        <td>@item.SubTitle</td>
+                        <td> <img src="~/admin/upload/portfolio/@item.ImgUrl" alt="Alternate Text" /></td>
+                        <td>
+                            <a class="btn btn-warning" asp-action="Update" asp-route-id="@item.ID">Update</a>
+                            <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.ID">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
