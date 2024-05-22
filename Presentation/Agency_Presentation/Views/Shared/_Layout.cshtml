@@ -73,9 +73,14 @@
                             <a class="page-scroll">@User.Identity.Name</a>
                             <a class="page-scroll" asp-action="LogOut" asp-controller="Account">LogOut</a>
                         </li>
-                        <li>
-                            <a class="page-scroll"asp-action="Index" asp-controller="Portfolio" asp-area="admin">AdminPanel</a>
-                        </li>
+                        @if (User.IsInRole("Admin"))
+                        {
+                            <li>
+                                <a class="page-scroll" asp-action="Index" asp-controller="Portfolio" asp-area="admin">AdminPanel</a>
+                            </li>
+
+                        }
+                       
                     }
                     else{
                     <li>
